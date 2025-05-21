@@ -62,7 +62,7 @@ body {
 }
 
 header {
-  background-color: #388e3c;
+  background-color: #0cd617;
   color: white;
   text-align: center;
   padding: 2rem 1rem;
@@ -98,7 +98,7 @@ textarea {
   padding: 10px;
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
-  border: 1px solid #ccc;
+  border: 1px solid #131212;
   border-radius: 6px;
   resize: vertical;
 }
