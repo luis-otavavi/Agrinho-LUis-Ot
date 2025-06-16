@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #d0f0c0; /* fundo verde claro */
-  color: #333;
+  color: #0dce1d;
 }
 
 header {
@@ -44,7 +44,7 @@ textarea {
   padding: 10px;
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
-  border: 1px solid #131212;
+  border: 1px solid #11db2c;
   border-radius: 6px;
   resize: vertical;
 }
